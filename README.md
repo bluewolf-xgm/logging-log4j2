@@ -6,6 +6,7 @@ and provides many of the improvements available in Logback while fixing some inh
 [![Jenkins Status](https://img.shields.io/jenkins/s/https/ci-builds.apache.org/job/Logging/job/log4j/job/release-2.x.svg)](https://ci-builds.apache.org/job/Logging/job/log4j/job/release-2.x/)
 [![Travis Status](https://travis-ci.org/apache/logging-log4j2.svg?branch=master)](https://travis-ci.org/apache/logging-log4j2)
 [![Maven Central](https://img.shields.io/maven-central/v/org.apache.logging.log4j/log4j-api.svg)](http://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbluewolf-xgm%2Flogging-log4j2.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbluewolf-xgm%2Flogging-log4j2?ref=badge_shield)
 
 
 ## Pull Requests on Github
@@ -77,6 +78,9 @@ The Log4j 2 User's Guide is available [here](https://logging.apache.org/log4j/2.
 ## License
 
 Apache Log4j 2 is distributed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbluewolf-xgm%2Flogging-log4j2.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbluewolf-xgm%2Flogging-log4j2?ref=badge_large)
 
 ## Download
 
