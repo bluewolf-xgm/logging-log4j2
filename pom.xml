@@ -25,7 +25,7 @@
     <groupId>org.apache.logging</groupId>
     <artifactId>logging-parent</artifactId>
     <version>3</version>
-    <relativePath />
+    <relativePath/>
   </parent>
   <description>Apache Log4j 2</description>
   <url>https://logging.apache.org/log4j/2.x/</url>
@@ -251,7 +251,7 @@
     <!-- See https://maven.apache.org/guides/mini/guide-reproducible-builds.html -->
     <project.build.outputTimestamp>10</project.build.outputTimestamp>
     <docLabel>Site Documentation</docLabel>
-    <projectDir />
+    <projectDir/>
     <commonsLoggingVersion>1.2</commonsLoggingVersion>
     <javax.persistence>2.2.1</javax.persistence>
     <!-- The OSGi API version MUST always be the MINIMUM version Log4j supports -->
@@ -266,7 +266,7 @@
     <xmlunitVersion>2.8.4</xmlunitVersion>
     <argLine>-Xms256m -Xmx1024m</argLine>
     <javaTargetVersion>1.8</javaTargetVersion>
-    <module.name />
+    <module.name/>
   </properties>
   <pluginRepositories>
     <pluginRepository>
@@ -861,7 +861,7 @@
       <dependency>
         <groupId>org.lightcouch</groupId>
         <artifactId>lightcouch</artifactId>
-        <version>0.0.6</version>
+        <version>0.1.2</version>
       </dependency>
       <dependency>
         <groupId>com.datastax.cassandra</groupId>
@@ -1055,7 +1055,7 @@
             <maxmem>1024</maxmem>
             <compilerArguments>
               <Xmaxwarns>10000</Xmaxwarns>
-              <Xlint />
+              <Xlint/>
             </compilerArguments>
           </configuration>
         </plugin>
@@ -1318,7 +1318,7 @@
             </goals>
             <configuration>
               <skip>true</skip>
-              <resourceBundles />
+              <resourceBundles/>
             </configuration>
           </execution>
         </executions>
